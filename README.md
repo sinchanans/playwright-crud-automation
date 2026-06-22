@@ -12,8 +12,6 @@ This project is an end-to-end test automation framework developed using Playwrig
 * Update Employee
 * Delete Employee
 * HTML Test Reports
-* Screenshots on Failure
-* Video Recording on Failure
 * Reusable Login Utility
 * Cross-Browser Testing Support
 
